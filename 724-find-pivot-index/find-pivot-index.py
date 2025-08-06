@@ -7,3 +7,4 @@ class Solution:
                 return i
             l+=val
         return -1
+        
